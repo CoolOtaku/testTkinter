@@ -25,8 +25,8 @@ One of the coursework on the topic «Designing a graphical user interface (**GUI
 5. **Ергономіка:** Інтерфейс програми був розроблений з урахуванням принципів ергономіки, що забезпечило зручність та простоту у використанні.
 
 #
-## Screenshots:
-<p>
+## Screenshots
+<p align="center">
   <img src="screenshots/1.png" height="20%"/>
   <img src="screenshots/2.png" height="20%"/>
   <img src="screenshots/3.png" height="20%"/>
@@ -38,6 +38,7 @@ One of the coursework on the topic «Designing a graphical user interface (**GUI
 ## Technologies used
 <b>EN:</b>
 - Creating a user interface using the library [**Tkinter**](https://docs.python.org/uk/3/library/tkinter.html)
+- Work on such platforms as: **Windows, macOS, GNU/Linux**
 - Using libraries for calculations ([**NumPy**](https://numpy.org), [**SciPy**](https://scipy.org))
 - Using libraries for plotting [**Matplotlib**](https://matplotlib.org)
 - Calculation of derivatives, integrals, zeros of functions, as well as intersections with coordinate axes
@@ -47,6 +48,7 @@ One of the coursework on the topic «Designing a graphical user interface (**GUI
 
 <b>UA:</b>
 - Створення користувацького інтерфейсу за допомогою бібліотеки [**Tkinter**](https://docs.python.org/uk/3/library/tkinter.html)
+- Робота на таких платформах як: **Windows, macOS, GNU/Linux**
 - Використання бібліотек для обчислень ([**NumPy**](https://numpy.org), [**SciPy**](https://scipy.org))
 - Використання бібліотек для побудови графіків [**Matplotlib**](https://matplotlib.org)
 - Обчислення похідних, інтегралів, нулів функцій, а також перетини з осями координат
